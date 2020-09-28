@@ -2,7 +2,9 @@
 My name is Marcel and I'm an iOS developer currently based in Brighton, UK 🇬🇧.
 
 🌱 I've been experimenting with SwiftUI lately. It's so cool.
+
 🔭 Right now I'm working for a Fintech startup.
+
 🇯🇵 Fun fact - I'm studying Japanese language. よろしくおねがいします！ 
 
 📫 You can find me here: 
