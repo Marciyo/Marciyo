@@ -1,7 +1,5 @@
 ### Hi there fellow developers 👋
-My name is Marcel and I'm an iOS developer currently based in London, UK 🇬🇧.
-
-🌱 I've been experimenting with SwiftUI lately. It's so cool.
+My name is Marcel and I'm an iOS developer currently based in Tokyo, JP 🇯🇵.
 🔭 Right now I'm working for a Fintech startup.
 
 🇯🇵 Fun fact - I'm studying Japanese language. よろしくおねがいします！ 
